@@ -12,7 +12,7 @@ A simple OTP authentication system where users can generate and validate OTPs fo
 - JavaScript  
 
 ## How to Run  
-1. Open the `otp.html` file in any modern web browser (e.g., Chrome, Firefox, Edge).  
+1. Open the otp.html file in any modern web browser (e.g., Chrome, Firefox, Edge).  
 2. Click **"Generate OTP"** to create a new OTP.  
 3. Enter the OTP and click **"Submit OTP"** to validate.  
 4. If the OTP is valid, the background color will change to light pink, and "Access Granted" will appear.  
