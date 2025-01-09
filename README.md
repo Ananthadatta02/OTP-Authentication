@@ -6,6 +6,9 @@ A simple OTP authentication system where users can generate and validate OTPs fo
 - Background color changes based on OTP validation  
 - User-friendly interface  
 
+## Open the Task
+Click [here](otp.html) to open the task.
+
 ## Technologies Used  
 - HTML  
 - CSS  
@@ -16,4 +19,4 @@ A simple OTP authentication system where users can generate and validate OTPs fo
 2. Click **"Generate OTP"** to create a new OTP.  
 3. Enter the OTP and click **"Submit OTP"** to validate.  
 4. If the OTP is valid, the background color will change to light pink, and "Access Granted" will appear.  
-5. If invalid, the background will turn red, and "Access Denied" will appear.  
+5. If invalid, the background will turn red, and "Access Denied" will appear.
