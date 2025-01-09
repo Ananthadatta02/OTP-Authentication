@@ -1,2 +1,19 @@
-# OTP-Authentication
-This OTP Authentication system allows users to generate and validate one-time passwords (OTPs) for secure access. The system features a simple interface where users can input OTPs, generate new ones, and verify them. It changes the background color based on validation results to enhance user experience.
+# OTP Authentication
+A simple OTP authentication system where users can generate and validate OTPs for secure access.
+
+# Features
+Generate and validate OTPs
+Background color changes based on OTP validation
+User-friendly interface
+
+**Technologies Used**
+HTML
+CSS
+JavaScript
+
+**How to Run**
+Open the otp.html file in any web browser.
+Click "Generate OTP" to create a new OTP.
+Enter the OTP and click "Submit OTP" to validate.
+Click "Generate OTP" to create a new OTP.
+Enter the OTP and click "Submit OTP" to validate.
