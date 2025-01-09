@@ -12,8 +12,7 @@ CSS
 JavaScript
 
 **How to Run**
-Open the otp.html file in any web browser.
+Open the otp.html file in any modern web browser (e.g., Chrome, Firefox, Edge).
 Click "Generate OTP" to create a new OTP.
 Enter the OTP and click "Submit OTP" to validate.
-Click "Generate OTP" to create a new OTP.
-Enter the OTP and click "Submit OTP" to validate.
+If the OTP is valid, the background color will change to light pink, and "Access Granted" will appear. If invalid, the background will turn red, and "Access Denied" will appear.
